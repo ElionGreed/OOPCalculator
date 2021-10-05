@@ -1,0 +1,7 @@
+﻿  Calculator.cpp
+e:\second year\c++ oop\oopcalculator\calculate.h(73): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\second year\c++ oop\oopcalculator\calculate.h(91): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\second year\c++ oop\oopcalculator\calculate.h(109): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\second year\c++ oop\oopcalculator\calculate.h(127): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Calculator.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Calculator.vcxproj -> E:\Second Year\C++ OOP\OOPCalculator\x64\Debug\Calculator.exe

@@ -1,0 +1,10 @@
+﻿  Calculator.cpp
+e:\second year\c++ oop\oopcalculator\calculate.h(73): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\second year\c++ oop\oopcalculator\calculate.h(91): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\second year\c++ oop\oopcalculator\calculate.h(109): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+e:\second year\c++ oop\oopcalculator\calculate.h(127): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Number.cpp
+e:\second year\c++ oop\oopcalculator\number.cpp(82): warning C4244: 'initializing': conversion from 'long' to 'unsigned short', possible loss of data
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Calculator.vcxproj -> E:\Second Year\C++ OOP\OOPCalculator\x64\Release\Calculator.exe

@@ -1,0 +1,11 @@
+﻿  Calculator.cpp
+d:\second year\c++ oop\oopcalculatoreljonhoxha\oopcalculator\calculate.h(73): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\second year\c++ oop\oopcalculatoreljonhoxha\oopcalculator\calculate.h(91): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\second year\c++ oop\oopcalculatoreljonhoxha\oopcalculator\calculate.h(109): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\second year\c++ oop\oopcalculatoreljonhoxha\oopcalculator\calculate.h(127): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Number.cpp
+d:\second year\c++ oop\oopcalculatoreljonhoxha\oopcalculator\number.cpp(82): warning C4244: 'initializing': conversion from 'long' to 'unsigned short', possible loss of data
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Calculator.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Calculator.vcxproj -> D:\Second Year\C++ OOP\OOPCalculatorEljonHoxha\OOPCalculator\x64\Debug\Calculator.exe
